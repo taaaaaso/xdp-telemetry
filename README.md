@@ -46,4 +46,4 @@ The agent intercepts only traffic destined to the service Pod by attaching the X
 
 ## Note
 
-This repo is largely unreviewed.
+The code in this repository is largely unreviewed.
