@@ -43,3 +43,7 @@ The agent intercepts only traffic destined to the service Pod by attaching the X
 - The UI (served at `/`) fetches JSON every second, renders per-agent bar charts (label distribution), a timeline chart (payload size vs timestamp), and a table of recent events.
 
 ![alt text](image.png)
+
+## Note
+
+This repo is largely unreviewed.
