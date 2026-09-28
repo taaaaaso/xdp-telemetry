@@ -44,6 +44,3 @@ The agent intercepts only traffic destined to the service Pod by attaching the X
 
 ![alt text](image.png)
 
-## Note
-
-The code in this repository is largely unreviewed.
